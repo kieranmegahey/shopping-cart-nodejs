@@ -19,4 +19,3 @@ Notes:
 
 The code must conform to the StandardJS coding standard.
 No database, user interaction, API, or other functionality is required (so no HTML/CSS); it just needs to be JS code which runs via the CLI and passes the tests.
-There is no deadline for the submission, so take as long as you need.
